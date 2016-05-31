@@ -1,0 +1,44 @@
+ros-indigo-smarthome-media-model (0.1.60-0saucy) saucy; urgency=high
+
+  * Rename package to smarthome_media_model
+  * Add license
+  * Contributors: Erwan Le Huitouze
+
+ -- Erwan Le Huitouze <erwan.lehuitouze@gmail.com>  Mon, 30 May 2016 22:00:00 -0000
+
+ros-indigo-smarthome-media-model (0.1.52-0saucy) saucy; urgency=high
+
+  * Apply new package architecture
+  * Contributors: Erwan Le Huitouze
+
+ -- Erwan Le Huitouze <erwan.lehuitouze@gmail.com>  Sat, 21 Nov 2015 17:13:00 -0000
+
+ros-indigo-smarthome-media-model (0.1.48-0saucy) saucy; urgency=high
+
+  * Update gradle & dependencies
+  * Contributors: Erwan Le Huitouze
+
+ -- Erwan Le Huitouze <erwan.lehuitouze@gmail.com>  Fri, 16 Oct 2015 22:00:00 -0000
+
+ros-indigo-smarthome-media-model (0.1.47-0saucy) saucy; urgency=high
+
+  * Update headers
+  * Contributors: Erwan Le Huitouze
+
+ -- Erwan Le Huitouze <erwan.lehuitouze@gmail.com>  Tue, 18 Aug 2015 22:00:00 -0000
+
+ros-indigo-smarthome-media-model (0.1.10-0saucy) saucy; urgency=high
+
+  * Update package file
+  * Contributors: Erwan Le Huitouze
+
+ -- Erwan Le Huitouze <erwan.lehuitouze@gmail.com>  Sun, 03 May 2015 22:00:00 -0000
+
+ros-indigo-smarthome-media-model (0.1.9-0saucy) saucy; urgency=high
+
+  * Add package
+  * Contributors: Erwan Le Huitouze
+
+ -- Erwan Le Huitouze <erwan.lehuitouze@gmail.com>  Sat, 04 Apr 2015 22:00:00 -0000
+
+
